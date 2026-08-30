@@ -55,7 +55,25 @@ The project is currently under active development and is being improved and prep
 
 ## 📸 Project Preview
 
-Screenshots and visual previews of the platform will be added to this repository.
+### Homepage
+
+![Homepage](assets/index.png)
+
+### Match Details
+
+![Match Details](assets/match-details.png)
+
+### Head-to-Head Analysis
+
+![H2H Analysis](assets/h2h.png)
+
+### Live Match Tracking
+
+![Live Match](assets/statistics.png)
+
+### Rankings
+
+![Rankings](assets/questionnaire.png)
 
 ## 🔒 Source Code Availability
 
